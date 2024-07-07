@@ -1,0 +1,17 @@
+{
+    "name": "m plus stitch",
+    "description": "Description",
+    "leading": 600,
+    "auto_satin": true,
+    "reversible": true,
+    "letter_case": "",
+    "default_glyph": " ",
+    "size": 15.0,
+    "min_scale": 1.0,
+    "max_scale": 1.0,
+    "horiz_adv_x_default": 600,
+    "horiz_adv_x_space": 20,
+    "units_per_em": 600,
+    "horiz_adv_x": {},
+    "kerning_pairs": {}
+}
